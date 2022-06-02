@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/bashirartin/notes-app#readme",
   "dependencies": {
-    "validator": "^13.7.0"
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
   }
 }
